@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Niraj Patel
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and all things tech
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 Email me on nrjpatel.dev@gmail.com
